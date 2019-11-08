@@ -1,0 +1,23 @@
+{
+  "name": "redisTLS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://danthegoodman1@github.com/danthegoodman1/redisTLS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danthegoodman1/redisTLS/issues"
+  },
+  "homepage": "https://github.com/danthegoodman1/redisTLS#readme",
+  "dependencies": {
+    "ioredis": "^4.14.1"
+  }
+}
