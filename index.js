@@ -1,5 +1,5 @@
 const redis = require("ioredis")
-const s = "rediss://default:qdlcaw35344ckavb@db-redis-nyc1-34717-do-user-3860233-0.db.ondigitalocean.com:25061"
+const s = "rediss://:)"
 const client = new redis(s)
 const pub = new redis(s)
 
